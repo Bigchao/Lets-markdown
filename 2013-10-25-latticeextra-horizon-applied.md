@@ -7,7 +7,7 @@ title: latticeExtra - Horizon Chart - 应用
 
 感谢一个
 
-
+test a little bit Jan11th 
 
 ![](http://i.imgur.com/nE3VPUs.png)
 
